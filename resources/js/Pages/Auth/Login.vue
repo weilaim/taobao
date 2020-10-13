@@ -1,29 +1,26 @@
 <template>
-    <app-layout>
+    <taobao-layout>
         <template #header>
-            @guest
-            1
-            @else
-            2
-            @endguest
-             ----{{ test }}
-            <h1>admin</h1>
+           <h2>This is Longin page</h2>
+           {{ user }}
         </template>
-    </app-layout>
+    </taobao-layout>
 </template>
 
 <script>
-    import AppLayout from './../../Layouts/AppLayout'
+    import TaobaoLayout from './../../Layouts/TaobaoLayout'
     import JetSectionBorder from './../../Jetstream/SectionBorder'
 
     export default {
       
         props:[
-            'auth',
-            'test'
+            'user'
         ],
         components: {
-           AppLayout,
+           TaobaoLayout,
+        },
+        mounted() {
+            console.log(this.user)
         },
     }
 </script>

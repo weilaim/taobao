@@ -33399,149 +33399,161 @@ var map = {
 		"./resources/js/Pages/API/ApiTokenManager.vue",
 		0,
 		1,
-		2,
-		4
+		3
 	],
 	"./API/ApiTokenManager.vue": [
 		"./resources/js/Pages/API/ApiTokenManager.vue",
 		0,
 		1,
-		2,
-		4
+		3
 	],
 	"./API/Index": [
 		"./resources/js/Pages/API/Index.vue",
 		0,
 		1,
 		2,
+		15,
 		3,
-		4,
-		21
+		26
 	],
 	"./API/Index.vue": [
 		"./resources/js/Pages/API/Index.vue",
 		0,
 		1,
 		2,
+		15,
 		3,
-		4,
-		21
+		26
+	],
+	"./Auth/Login": [
+		"./resources/js/Pages/Auth/Login.vue",
+		2,
+		17
+	],
+	"./Auth/Login.vue": [
+		"./resources/js/Pages/Auth/Login.vue",
+		2,
+		17
 	],
 	"./Dashboard": [
 		"./resources/js/Pages/Dashboard.vue",
-		3,
-		17
+		2,
+		15,
+		24
 	],
 	"./Dashboard.vue": [
 		"./resources/js/Pages/Dashboard.vue",
-		3,
-		17
+		2,
+		15,
+		24
 	],
 	"./Profile/DeleteUserForm": [
 		"./resources/js/Pages/Profile/DeleteUserForm.vue",
 		0,
 		1,
-		14
+		13
 	],
 	"./Profile/DeleteUserForm.vue": [
 		"./resources/js/Pages/Profile/DeleteUserForm.vue",
 		0,
 		1,
-		14
+		13
 	],
 	"./Profile/LogoutOtherBrowserSessionsForm": [
 		"./resources/js/Pages/Profile/LogoutOtherBrowserSessionsForm.vue",
 		0,
 		1,
-		7,
-		18
+		12,
+		16
 	],
 	"./Profile/LogoutOtherBrowserSessionsForm.vue": [
 		"./resources/js/Pages/Profile/LogoutOtherBrowserSessionsForm.vue",
 		0,
 		1,
-		7,
-		18
+		12,
+		16
 	],
 	"./Profile/Show": [
 		"./resources/js/Pages/Profile/Show.vue",
 		0,
 		1,
 		2,
-		3,
-		6,
+		15,
 		7,
 		8,
-		15
+		12,
+		22
 	],
 	"./Profile/Show.vue": [
 		"./resources/js/Pages/Profile/Show.vue",
 		0,
 		1,
 		2,
-		3,
-		6,
+		15,
 		7,
 		8,
-		15
+		12,
+		22
 	],
 	"./Profile/TwoFactorAuthenticationForm": [
 		"./resources/js/Pages/Profile/TwoFactorAuthenticationForm.vue",
 		0,
 		1,
-		6
+		7
 	],
 	"./Profile/TwoFactorAuthenticationForm.vue": [
 		"./resources/js/Pages/Profile/TwoFactorAuthenticationForm.vue",
 		0,
 		1,
-		6
+		7
 	],
 	"./Profile/UpdatePasswordForm": [
 		"./resources/js/Pages/Profile/UpdatePasswordForm.vue",
 		0,
-		11
+		10
 	],
 	"./Profile/UpdatePasswordForm.vue": [
 		"./resources/js/Pages/Profile/UpdatePasswordForm.vue",
 		0,
-		11
+		10
 	],
 	"./Profile/UpdateProfileInformationForm": [
 		"./resources/js/Pages/Profile/UpdateProfileInformationForm.vue",
 		0,
 		8,
-		10
+		20
 	],
 	"./Profile/UpdateProfileInformationForm.vue": [
 		"./resources/js/Pages/Profile/UpdateProfileInformationForm.vue",
 		0,
 		8,
-		10
+		20
 	],
 	"./Teams/Create": [
 		"./resources/js/Pages/Teams/Create.vue",
 		0,
 		2,
-		3,
-		19
+		15,
+		6,
+		25
 	],
 	"./Teams/Create.vue": [
 		"./resources/js/Pages/Teams/Create.vue",
 		0,
 		2,
-		3,
-		19
+		15,
+		6,
+		25
 	],
 	"./Teams/CreateTeamForm": [
 		"./resources/js/Pages/Teams/CreateTeamForm.vue",
 		0,
-		12
+		6
 	],
 	"./Teams/CreateTeamForm.vue": [
 		"./resources/js/Pages/Teams/CreateTeamForm.vue",
 		0,
-		12
+		6
 	],
 	"./Teams/DeleteTeamForm": [
 		"./resources/js/Pages/Teams/DeleteTeamForm.vue",
@@ -33558,50 +33570,48 @@ var map = {
 		0,
 		1,
 		2,
-		3,
-		5,
-		16
+		15,
+		4,
+		23
 	],
 	"./Teams/Show.vue": [
 		"./resources/js/Pages/Teams/Show.vue",
 		0,
 		1,
 		2,
-		3,
-		5,
-		16
+		15,
+		4,
+		23
 	],
 	"./Teams/TeamMemberManager": [
 		"./resources/js/Pages/Teams/TeamMemberManager.vue",
 		0,
 		1,
-		2,
-		5
+		4
 	],
 	"./Teams/TeamMemberManager.vue": [
 		"./resources/js/Pages/Teams/TeamMemberManager.vue",
 		0,
 		1,
-		2,
-		5
+		4
 	],
 	"./Teams/UpdateTeamNameForm": [
 		"./resources/js/Pages/Teams/UpdateTeamNameForm.vue",
 		0,
-		13
+		11
 	],
 	"./Teams/UpdateTeamNameForm.vue": [
 		"./resources/js/Pages/Teams/UpdateTeamNameForm.vue",
 		0,
-		13
+		11
 	],
 	"./Testd/Testd": [
 		"./resources/js/Pages/Testd/Testd.vue",
-		20
+		19
 	],
 	"./Testd/Testd.vue": [
 		"./resources/js/Pages/Testd/Testd.vue",
-		20
+		19
 	]
 };
 function webpackAsyncContext(req) {
